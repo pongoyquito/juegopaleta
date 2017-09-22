@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.pongoyquito.juego.practica-1" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Juego-Ejercicio</name>
+<widget id="com.pongoyquito.juego.practica-1-Git" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Juego-Ejercicio-Git</name>
     <description>
         Juego de fronton. Con una paelta hay que golpear la bola el maximo numero de veces posible. Tienes 4 vidas.
     </description>
