@@ -1,0 +1,24 @@
+html{
+    margin:0px;
+	width: 100%;
+	height: 100%;
+}
+
+body{
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: MistyRose ; /*  fdcf58 Plum DodgerBlue 1E90FF */ 
+  color: DarkOrchid  ;
+  font-size: 30px;
+  font-family: "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+#phaser{
+	width: 100%;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
